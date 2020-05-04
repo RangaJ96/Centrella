@@ -6,21 +6,21 @@ export const environment = {
   production: false,
   firebase: {
     
-    apiKey: "AIzaSyBgUjAYw679wOKxbEjC0wZ3G3JpCNpNst0",
-    authDomain: "chattest-96ba0.firebaseapp.com",
-    databaseURL: "https://chattest-96ba0.firebaseio.com",
-    projectId: "chattest-96ba0",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
-    messagingSenderId: "762742814171",
-    appId: "1:762742814171:web:3c6dea43c7b6721a"
+    messagingSenderId: "",
+    appId: ""
   },
   
 
-  iceservers: 'http://localhost:3000/getICETokens',
-  wsserver: 'http://localhost:3000',
-  firebase_cms_url: `https://firebasestorage.googleapis.com/v0/b/chattest-96ba0.appspot.com/o/`,
-  firebase_cms_url_postfix: '?alt=media&token=0b59f3a1-e0ac-4229-868c-d8302031ceee',
-  sentiment_api: 'http://localhost:3002'
+  iceservers: '',
+  wsserver: '',
+  firebase_cms_url: ``,
+  firebase_cms_url_postfix: '',
+  sentiment_api: ''
 };
 
 /*
